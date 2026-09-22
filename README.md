@@ -1,15 +1,15 @@
-# About me
+# Hi, I'm Stefano
 
-Hi there, I'm Stefano! 👋 I am a Master's student in **Computer Engineering (Software track)** at **Politecnico di Torino**, currently looking for an impactful **Master's Thesis opportunity in the industry**. 
-
-I thrive on solving complex problems, writing clean and scalable code, and turning theoretical engineering principles into practical software solutions.
+A curious Computer Engineer who enjoys building and learning new things. You can find here some information about me and some of my projects. Feel free to contact me if you want to collaborate or just say hi!
 
 ---
 
 ### 🎓 About Me
-- 🔭 **Current Focus:** Completing my M.D. at PoliTo, diving deep into advanced software architectures and modern technologies.
-- 🔍 **Thesis Interests:** Open to challenging projects in Software Engineering, Cloud Computing, DevOps, or Distributed Systems.
-- 💡 **Core Values:** Clean code, efficient algorithms, and continuous learning.
+I'm a Master's student in Computer Engineering at Politecnico di Torino with a deep passion for building robust software. I enjoy designing architectures, writing clean code, and exploring how complex systems work under the hood.
+
+I have hands-on experience across Backend and Frontend development, Distributed Systems, Cloud & Microservices, Data Engineering, and Low-level Programming.
+
+Always eager to tackle hard problems, learn new paradigms, and grow both technically and as a team player. Look at my projects and code repositories to see what I've worked on, and check out my CV for more details about my experience!
 
 ### 🛠️ Tech Stack & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
