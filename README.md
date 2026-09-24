@@ -2,8 +2,6 @@
 
 A curious Computer Engineer who enjoys building and learning new things. You can find here some information about me and some of my projects. Feel free to contact me if you want to collaborate or just say hi!
 
----
-
 ## 🎓 About Me
 I'm a Master's student in Computer Engineering at Politecnico di Torino with a deep passion for building robust software. I enjoy designing architectures, writing clean code, and exploring how complex systems work under the hood.
 
